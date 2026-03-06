@@ -9,6 +9,6 @@ app.get("/idade/:nome/:idade", (req, res)=>{
 
 })
 
-app.listen(3020, ()=>{
+app.listen(3005, ()=>{
     console.log("Emilly o servidor está ligado")
 })

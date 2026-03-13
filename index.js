@@ -9,6 +9,6 @@ app.get("/idade/:nome/:idade", (req, res)=>{
 
 })
 
-app.listen(3005, ()=>{
-    console.log("Emilly o servidor está ligado")
+app.listen(3001, ()=>{
+    console.log("alexa abrir lata de monster")
 })
